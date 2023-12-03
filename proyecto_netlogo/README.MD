@@ -1,0 +1,1 @@
+Proyecto implementado en NetLOGO (2022) en el que se basó el proyecto de GAMA.
