@@ -16,7 +16,7 @@ Para la ejecución del proyecto se requiere del software [GAMA](https://gama-pla
 En el directorio `/informes` se incluye la documentación del proyecto de GAMA:
 - Presentación de Propuesta
 - Presentación de Avance + video
-- Informe Final + video
+- Informe Final
 
 El directorio `/proyecto_netlogo` incluye el informe final presentado en 2022 para el proyecto de NetLogo.
 
